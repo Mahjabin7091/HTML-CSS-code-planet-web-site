@@ -1,0 +1,69 @@
+/* the styles for the elements */
+
+* {
+
+margin: 0;
+
+padding: 0;
+
+}
+
+html {
+
+background-color: #FD5C48;
+
+}
+
+body {
+
+font-family: Arial, Helvetica, sans-serif;
+
+font-size: 87.5%;
+
+width: 800px;
+
+margin: 150px auto;
+
+border: 3px solid #800000;
+
+background-color: #fffded;
+
+
+}
+
+a:focus, a:hover 
+{
+
+font-style: italic;
+
+}
+
+article img { 
+    border:2px solid #f6bb73;
+	float:center;
+	height:250px;
+	margin-left:180px;
+	overflow:hidden;
+	width:350px;
+ }
+
+footer {
+
+background-color: #D5240F ;
+
+clear: both;
+
+}
+
+footer p {
+
+text-align: center;
+
+color: white;
+
+padding: 1em 0;
+
+}
+
+
+
